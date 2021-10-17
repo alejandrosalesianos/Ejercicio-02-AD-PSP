@@ -1,0 +1,8 @@
+com\salesianostriana\E02\repos\PaisRepository.class
+com\salesianostriana\E02\model\Pais.class
+com\salesianostriana\E02\model\Producto.class
+com\salesianostriana\E02\model\Pais$PaisBuilder.class
+com\salesianostriana\E02\E02Application.class
+com\salesianostriana\E02\MainPrueba.class
+com\salesianostriana\E02\model\Producto$ProductoBuilder.class
+com\salesianostriana\E02\repos\ProductoRepository.class
